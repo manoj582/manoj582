@@ -1,1 +1,13 @@
-coming college today
+GITHUB 
+installation classes
+1st create download git in correct bit and install
+after create new signup are old account
+reop to create name
+and create new file and git name
+and txt file to create
+and command to powershell
+git init
+git add filename.txt
+git --global email address
+git --global name
+git to connected the file to open
